@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bhpanchal/Downloads/Cucumber jars/cucumber-core-6.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhpanchal/Downloads/Cucumber jars/cucumber-java-6.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhpanchal/Downloads/Cucumber jars/cucumber-junit-6.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhpanchal/Downloads/Cucumber jars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhpanchal/Downloads/Cucumber jars/gherkin-17.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhpanchal/OneDrive - MMI HOLDINGS LTD/Documents/Selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhpanchal/Downloads/Cucumber jars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhpanchal/Downloads/cucumber-picocontainer-6.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhpanchal/Downloads/junit-4.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhpanchal/Downloads/tag-expressions-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
